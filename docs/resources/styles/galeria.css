@@ -1,0 +1,12 @@
+.photo-gallery {
+  columns: 2 300px;
+  column-gap: 15px;
+}
+
+.photo-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 15px;
+  break-inside: avoid;
+}

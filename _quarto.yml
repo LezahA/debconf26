@@ -1,7 +1,6 @@
 project:
   type: website
-  
-output-dir: docs
+  output-dir: docs
 
 lang: es
 
@@ -11,7 +10,7 @@ format:
     toc-depth: 3
     number-sections: false
     smooth-scroll: true
-    css: /resources/styles/galeria.css
+    css: resources/styles/galeria.css
 
 execute:
   echo: false
