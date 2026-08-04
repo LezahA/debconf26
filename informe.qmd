@@ -1,0 +1,440 @@
+---
+title: "Participación en DebConf26"
+subtitle: "Informe académico y de actividades"
+author:
+  - name: "Hazel Azucena Calderón Bonilla"
+    affiliation: "Universidad de El Salvador"
+    email: "cb22014@ues.edu.sv"
+
+  - name: "Douglas Isaac Barrera Magaña"
+    affiliation: "Universidad de El Salvador"
+    email: "bm22025@ues.edu.sv"
+date: "2026-08-02"
+css: resources/styles/galeria.css
+
+---
+
+# Resumen ejecutivo
+
+La participación en DebConf26 representó una oportunidad de
+formación académica y profesional en el ámbito del software
+libre y el desarrollo colaborativo. El evento permitió conocer
+de primera mano el funcionamiento de la comunidad Debian,
+participar en actividades técnicas y establecer contacto con
+desarrolladores y colaboradores internacionales.
+
+Durante la conferencia se asistió a charlas y sesiones sobre
+software libre, Debian, licenciamiento, Python, Machine
+Learning e instalación y distribución de software. Asimismo,
+se participó en actividades de la comunidad, incluyendo una
+Key Signing Party, y en una actividad práctica sobre
+la creación de paquetes `.deb`.
+
+## Datos generales
+
+| Información | Detalle |
+|---|---|
+| **Evento** | DebConf26 |
+| **Lugar** | Santa Fe, Argentina |
+| **Llegada** | 18 de julio de 2026 |
+| **Inicio del evento** | 20 de julio de 2026 |
+| **Finalización del evento** | 25 de julio de 2026 |
+| **Finalización de estadía** | 27 de julio de 2026 |
+
+# Introducción
+
+El software libre constituye una forma de desarrollo tecnológico
+basada en la colaboración, el intercambio de conocimientos y la
+libertad de los usuarios para utilizar, estudiar, modificar y
+redistribuir el software. Este modelo ha permitido la creación de
+proyectos tecnológicos desarrollados y mantenidos por comunidades
+internacionales, en las que participan tanto profesionales como
+personas que se incorporan progresivamente a estos espacios de
+colaboración.
+
+Dentro de este ecosistema se encuentra Debian, un proyecto de
+software libre conocido principalmente por su sistema operativo y
+por la comunidad internacional que participa en su desarrollo,
+mantenimiento y documentación. Su desarrollo involucra distintas
+áreas de conocimiento relacionadas con la ingeniería de software,
+la administración de sistemas, la seguridad, el empaquetamiento de
+programas, la documentación y la colaboración entre comunidades.
+
+En este contexto se desarrolla DebConf, la conferencia anual de la
+comunidad Debian, que reúne a desarrolladores, colaboradores y
+participantes interesados en el proyecto para compartir
+conocimientos, discutir aspectos técnicos y organizativos y
+fortalecer los vínculos dentro de la comunidad.
+
+La edición DebConf26 se llevó a cabo en Santa Fe, Argentina, del
+20 al 25 de julio de 2026. Nuestra participación en este evento
+representó una oportunidad para complementar la formación
+académica en Ingeniería en Desarrollo de Software mediante el
+contacto directo con una comunidad internacional de desarrollo
+de software libre.
+
+El presente informe tiene como finalidad documentar la
+participación en DebConf26, las actividades académicas, técnicas
+y comunitarias realizadas, los principales conocimientos
+adquiridos y las experiencias de colaboración desarrolladas
+durante el evento. Asimismo, se presentan los resultados obtenidos
+y la relevancia que esta experiencia tuvo para mi formación
+profesional.
+
+
+## ¿Qué es Debian?
+
+Debian es un proyecto dedicado al desarrollo de un sistema operativo compuesto principalmente por software libre.
+El proyecto se caracteriza por su desarrollo colaborativo y por la
+participación de una comunidad internacional de desarrolladores y
+colaboradores que trabajan en áreas como el desarrollo y
+mantenimiento de paquetes, infraestructura, documentación,
+traducciones, seguridad y soporte.
+
+Una de las características más importantes de Debian es su sistema
+de gestión de paquetes, que permite distribuir, instalar,
+actualizar y administrar software de manera organizada. Los
+programas pueden distribuirse mediante paquetes en formatos como
+`.deb`, los cuales contienen los archivos y metadatos necesarios
+para facilitar su instalación y administración dentro del sistema.
+
+El desarrollo de Debian no depende únicamente de una organización
+centralizada. Gran parte de su trabajo se realiza mediante la
+colaboración de personas distribuidas alrededor del mundo, quienes
+participan en diferentes áreas del proyecto de acuerdo con sus
+conocimientos e intereses. Esta estructura hace que la comunicación,
+la documentación, la revisión del trabajo y los mecanismos de
+confianza sean elementos importantes dentro de la comunidad.
+
+Para nosotros como estudiantes de Ingeniería en Desarrollo de Software,
+conocer Debian permite observar de manera práctica cómo conceptos
+como desarrollo colaborativo, control de versiones, empaquetamiento,
+licenciamiento, documentación, infraestructura y mantenimiento de
+software pueden integrarse en un proyecto de gran escala.
+
+## ¿Qué es DebConf?
+
+DebConf es la conferencia anual de la comunidad Debian y constituye
+uno de los principales espacios de encuentro presencial para las
+personas que participan en el desarrollo y mantenimiento del
+proyecto. La conferencia reúne a desarrolladores, colaboradores y
+personas interesadas en Debian provenientes de diferentes países,
+permitiendo compartir conocimientos, discutir aspectos técnicos y
+organizativos y fortalecer los vínculos dentro de la comunidad.
+
+A diferencia de un evento centrado exclusivamente en exposiciones
+formales, DebConf combina diferentes modalidades de participación.
+Su programa incluye charlas, talleres, sesiones de discusión y
+espacios de trabajo colaborativo, además de actividades orientadas
+a facilitar la integración de nuevos participantes y la interacción
+entre miembros de la comunidad.
+
+Entre los temas abordados pueden encontrarse áreas relacionadas con
+el desarrollo y empaquetamiento de software, infraestructura,
+seguridad, documentación, licenciamiento, inteligencia artificial,
+sistemas operativos y otros aspectos vinculados con el desarrollo
+del proyecto Debian. Esta diversidad permite que participantes con
+diferentes niveles de experiencia encuentren oportunidades tanto
+para adquirir conocimientos como para contribuir al proyecto.
+
+DebConf representa no solamente un espacio para
+asistir a conferencias, sino también una oportunidad para conocer de
+cerca las dinámicas de una comunidad internacional de software
+libre, participar en sus actividades y comprender cómo se desarrolla
+la colaboración dentro de un proyecto tecnológico de gran escala.
+
+# Objetivos de la participación
+
+## Objetivo general
+
+Conocer de manera directa el funcionamiento, las dinámicas de
+colaboración y las áreas de trabajo del proyecto Debian mediante
+la participación en DebConf26, con el propósito de ampliar los
+conocimientos sobre el desarrollo de software libre y comprender
+el trabajo realizado por sus desarrolladores y colaboradores
+
+## Objetivos específicos
+
+- Conocer las dinámicas de colaboración y participación que
+  caracterizan a la comunidad Debian y al desarrollo de proyectos
+  de software libre.
+
+- Conocer las áreas técnicas y organizativas involucradas en el
+  desarrollo, mantenimiento y distribución de software dentro
+  del ecosistema Debian.
+
+- Ampliar los conocimientos sobre temas relacionados con software
+  libre, licenciamiento, Python, Machine Learning, empaquetamiento
+  de software e instalación de sistemas Debian.
+
+- Observar de manera directa las experiencias y prácticas de
+  desarrolladores y colaboradores que participan en el proyecto
+  Debian.
+
+- Participar en actividades de interacción con la comunidad para
+  conocer a desarrolladores y colaboradores y establecer vínculos
+  profesionales dentro del ámbito del software libre.
+
+- Fortalecer la formación profesional mediante la participación
+  en actividades técnicas, espacios de discusión y experiencias
+  prácticas desarrolladas durante DebConf26.
+
+- Identificar conocimientos y experiencias que puedan ser
+  posteriormente compartidos y aprovechados dentro del entorno
+  académico de la Universidad de El Salvador.
+
+# Información general del viaje
+
+## Datos de la participación
+
+<!-- Fechas, lugar, estadía, evento, etc. -->
+
+La participación en DebConf26 se desarrolló en las instalaciones de la **Universidad Nacional del Litoral (UNL)**, en Santa Fe, Argentina, como parte de una experiencia académica y de formación profesional vinculada con la carrera de Ingeniería en Desarrollo de Software. La delegación de la Universidad de El Salvador estuvo conformada por dos estudiantes: **Hazel Azucena Calderón Bonilla** y **Douglas Isaac Barrera Magaña**, quienes participamos en las diferentes actividades desarrolladas durante la conferencia.
+
+Como parte del apoyo otorgado por los organizadores de DebConf26, contamos con una beca que cubrió la estadía y alimentación durante el período establecido para nuestra participación. El alojamiento fue proporcionado en el **Hotel UNL-ATE**, ubicado en las instalaciones de la Universidad Nacional del Litoral, lo que permitió permanecer cerca del lugar donde se desarrollaron las actividades principales de la conferencia.
+
+La llegada a Argentina se realizó el **18 de julio de 2026**, mientras que la estadía se extendió hasta el 27 de julio de 2026. El programa principal de DebConf26 se desarrolló del **20 al 25 de julio**, período durante el cual participamos en diversas charlas, sesiones técnicas y actividades comunitarias relacionadas con el desarrollo y mantenimiento del proyecto Debian.
+
+La experiencia incluyó tanto la asistencia a las actividades programadas oficialmente como oportunidades de interacción directa con desarrolladores y colaboradores de la comunidad Debian. Asimismo, se presentaron espacios de intercambio y aprendizaje práctico que permitieron conocer de manera más cercana las dinámicas de colaboración, comunicación y participación que caracterizan a un proyecto internacional de software libre.
+
+## Cronología
+
+### 18 de julio — Llegada a Argentina
+
+El 18 de julio de 2026 se realizó la llegada a Argentina después de un viaje de aproximadamente 24 horas de duración. Debido a la extensión del trayecto, esta primera jornada estuvo principalmente destinada al descanso y a la recuperación antes de continuar con las actividades previstas para los siguientes días.
+
+### 19 de julio — Proceso de Registro
+
+Durante esta jornada se tuvo la oportunidad de comenzar a interactuar con algunos de los participantes de la conferencia y conocer parte del entorno en el que se desarrollarían las actividades.
+
+Asimismo, se realizó el proceso de registro y acreditación, incluyendo la entrega de los carnets de identificación y los comprobantes correspondientes a los servicios de alimentación proporcionados durante la estadía.
+
+### 20 de julio — Inicio de DebConf26
+
+El 20 de julio comenzó oficialmente DebConf26. A partir de esta fecha se inició la participación en las diferentes actividades programadas por la conferencia.
+
+Una de las primeras actividades fue **DebConf 101**, una sesión
+introductoria orientada a explicar la dinámica de DebConf y
+facilitar la integración de nuevos participantes en la comunidad
+Debian.
+
+[Más detalles: DebConf 101](https://debconf26.debconf.org/talks/115-debconf-101)
+
+Durante esta misma jornada también se participó en la sesión
+**Continuous Keysigning Party Coordination / Kickoff**, relacionada
+con la coordinación de la actividad de firma de claves dentro de
+la comunidad Debian. Esta actividad permitió conocer el
+funcionamiento y la dinámica de participación de la Key Signing
+Party, actividad en la que posteriormente se tuvo participación
+directa.
+
+[Más detalles: Continuous Keysigning Party Coordination / Kickoff](https://debconf26.debconf.org/talks/112-continuous-keysigning-party-coordination-kickoff/)
+
+También se participó en la charla **Introducción al Software Libre**, en la cual se abordaron conceptos fundamentales relacionados con el
+software libre, su filosofía y la importancia de la colaboración dentro
+de este modelo de desarrollo.
+
+[Más detalles: Introducción al Software Libre](https://debconf26.debconf.org/talks/92-introduccion-al-software-libre/)
+
+Se participó en la actividad **Is it even possible to
+build a truly universal system installer?**, en la cual se
+abordaron las posibilidades y desafíos relacionados con la
+construcción de instaladores capaces de ofrecer una experiencia
+más universal para diferentes sistemas y configuraciones.
+
+[Más detalles: Is it even possible to build a truly universal system installer?](https://debconf26.debconf.org/talks/6-is-it-even-possible-to-build-a-truly-universal-system-installer/)
+
+### 21 de julio — Actividades de la conferencia
+
+Como parte de las actividades de la jornada, se asistió a la charla **Empezar a contribuir en Debian - tips para principiantes**, orientada a quienes desean incorporarse al proyecto. La sesión permitió conocer recomendaciones y puntos de partida para dar los primeros pasos como colaborador dentro de la comunidad Debian.
+
+[Más detalles: Empezar a contribuir en Debian - tips para principiantes](https://debconf26.debconf.org/talks/93-empezar-a-contribuir-en-debian-tips-para-principiantes/)
+
+### 22 de julio — DayTrip
+
+Este día se llevó a cabo el **Day Trip de DebConf26**, una actividad organizada como parte del programa de la conferencia para brindar a los participantes un espacio de convivencia e integración fuera del entorno habitual de las sesiones técnicas.
+
+La jornada permitió fortalecer la interacción entre integrantes de la comunidad Debian de diferentes países, generando un espacio más informal para compartir experiencias, conversar y establecer vínculos con otros participantes. Esta actividad complementó las sesiones académicas y técnicas de la conferencia al proporcionar una oportunidad para conocer con mayor cercanía a las personas que forman parte del proyecto y fortalecer las relaciones dentro de la comunidad.
+
+### 23 de julio — Actividades de la conferencia
+
+Durante esta jornada se asistió a la charla **Edge Machine Learning en pequeños dispositivos con Debian**, centrada en la aplicación de técnicas de Machine Learning en dispositivos de recursos limitados mediante el uso de Debian.
+
+La actividad permitió conocer las posibilidades de utilizar herramientas y tecnologías de Machine Learning en dispositivos pequeños, así como algunos de los retos relacionados con la ejecución de este tipo de soluciones en entornos con recursos computacionales restringidos.
+
+[Más detalles: Edge Machine Learning en pequeños dispositivos con Debian](https://debconf26.debconf.org/talks/23-edge-machine-learning-en-pequenos-dispositivos-con-debian/)
+
+### 24 de julio — Actividades de la conferencia
+
+Este dia se participo en **New Members BoF** , un espacio de discusión sobre el proceso mediante el cual nuevas personas pueden incorporarse al Proyecto Debian. Se abordó cómo funciona actualmente este proceso, los roles involucrados y las posibles formas de mejorarlo, destacando la importancia de facilitar la participación de nuevos colaboradores y fortalecer el crecimiento de la comunidad Debian.
+
+[Más detalles: New Members BoF](https://debconf26.debconf.org/talks/69-new-members-bof/)
+
+Como parte de la dinámica de la conferencia se permitia anotarse como voluntario para encargarse de el sonido, video o grabación dentro de las charlas, y Azucena Calderón estuvo a cargo del sonido en las charlas **Debian openQA** y **Improving Debian Through Better Testing**
+
+### 25 de julio — Cierre de Debconf26
+
+Durante la jornada matutina y parte de la tarde del último día de actividades se participó en la dinámica del **Key-Signing Party**, orientada a la verificación e intercambio de claves criptográficas entre participantes. La actividad permitió conocer de manera práctica uno de los mecanismos utilizados dentro de la comunidad de Debian para fortalecer la confianza y seguridad en las comunicaciones digitales.
+
+### 26 de julio — Departure Day DebConf26
+
+Jornada destinada al regreso progresivo de los participantes a sus respectivos países de origen, que también funcionó como un espacio de convivencia y cierre de la experiencia de DebConf26. Durante este día, Praveen Arimbrathodiyil realizó una breve sesión introductoria sobre el proceso de creación y preparación de paquetes para Debian, permitiendo conocer de manera general algunos de los pasos involucrados en esta forma de contribución al proyecto.
+
+### 27 de julio — Finalización de la estadía
+
+Jornada destinada a la movilización hacia el aeropuerto para iniciar el viaje de regreso a El Salvador, dando por finalizada la participación presencial en DebConf26.
+
+# Charlas y contenidos de interés
+
+## DebConf 101
+
+{{< video https://laotzu.ftp.acc.umu.se/pub/debian-meetings/2026/DebConf26/debconf26-299-debconf-101.av1.webm >}}
+
+## Introducción al Software Libre
+
+{{< video https://laotzu.ftp.acc.umu.se/pub/debian-meetings/2026/DebConf26/debconf26-281-introduccion-al-software-libre.av1.webm >}}
+
+## Licenciamiento de software
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-333-licencia-para-ignorar-por-que-ya-nadie-lee-el-archivo-license.av1.webm >}}
+
+## Instaladores de Debian
+
+{{< video https://chuangtzu.ftp.acc.umu.se/pub/debian-meetings/2026/DebConf26/debconf26-256-is-it-even-possible-to-build-a-truly-universal-system-installer.av1.webm >}}
+
+## Edge Machine Learning en dispositivos con Debian
+
+{{< video https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2026/DebConf26/debconf26-329-edge-machine-learning-en-pequenos-dispositivos-con-debian.av1.webm >}}
+
+## Debian Python BoF
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-193-debian-python-bof.av1.webm >}}
+
+## New Members BoF
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-410-new-members-bof.av1.webm >}}
+
+## Bits from DPL
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-153-bits-from-dpl.av1.webm >}}
+
+## Organize the Debian Day in your city
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-346-organize-the-debian-day-in-your-city.av1.webm >}}
+
+## A Debian-based system to teach science, right in your pocket
+
+{{< video https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-214-a-debian-based-system-to-teach-science-right-in-your-pocket.av1.webm >}}
+
+# Participación en actividades de la comunidad
+
+## Key Signing Party
+
+### ¿Qué es OpenPGP?
+
+OpenPGP es un estándar basado en criptografía de clave pública que permite realizar operaciones relacionadas con la protección de información y, especialmente en el contexto de este informe, con la verificación de identidad mediante firmas criptográficas. Su funcionamiento se basa en el uso de claves relacionadas entre sí y en mecanismos que permiten comprobar que una determinada firma o información criptográfica está asociada con la persona que afirma poseerla.
+
+A diferencia de los sistemas tradicionales basados únicamente en usuario y contraseña, la criptografía de clave pública permite establecer mecanismos más sólidos para comprobar la identidad de una persona.
+
+Uno de los elementos característicos de OpenPGP es el modelo denominado **Web of Trust (WoT)** o Red de Confianza. En este modelo no existe necesariamente una autoridad central que determine de manera jerárquica en quién se debe confiar. En su lugar, las personas pueden **verificar la identidad de otras y firmar sus claves**, creando relaciones de confianza que pueden conectarse entre sí mediante diferentes participantes. De esta manera, una clave puede adquirir confianza a partir de las relaciones establecidas con otras personas dentro de la red.
+
+Este modelo resulta especialmente relevante para comunidades distribuidas, ya que permite establecer relaciones de confianza sin depender exclusivamente de una autoridad central. En el caso de OpenPGP, las claves utilizadas para estas operaciones pueden organizarse en un keyring, es decir, un conjunto de claves que sirve como referencia para realizar operaciones criptográficas y evaluar relaciones de confianza.
+
+### ¿Qué relación tiene OpenPGP con Debian?
+
+La relación entre OpenPGP y Debian surge de una necesidad fundamental del proyecto: verificar de manera confiable la identidad de las personas que participan en actividades con diferentes niveles de responsabilidad dentro de una comunidad distribuida internacionalmente.
+
+Debian es un proyecto **desarrollado por una comunidad geográficamente dispersa** y sin una estructura organizativa central tradicional. Al mismo tiempo, determinadas personas que participan en el proyecto poseen permisos que les permiten realizar acciones de gran importancia, como subir paquetes que posteriormente pueden ser distribuidos e instalados en una gran cantidad de equipos. Debido a esto, la verificación de identidad requiere mecanismos más robustos que un sistema convencional de usuario y contraseña.
+
+Para responder a esta necesidad, Debian utiliza un modelo de confianza basado en la **Web of Trust de OpenPGP**, incorporando además un proceso de curaduría de las claves. Esto significa que la confianza no depende únicamente de una autoridad central, sino que se construye mediante firmas entre participantes y posteriormente es administrada mediante los keyrings que mantiene el equipo encargado de las claves de Debian.
+
+Los keyrings de Debian contienen las claves asociadas con diferentes categorías de participantes y cumplen una función importante dentro de la infraestructura del proyecto. Según los documentos consultados, estos registros son utilizados para comprobar que determinadas acciones proceden de personas autorizadas. Entre los ejemplos señalados se encuentran la verificación de quién realiza una subida de paquetes, quién emite un voto en determinadas decisiones del proyecto y otros procesos relacionados con la infraestructura de Debian.
+
+Por esta razón, las firmas de claves tienen una importancia que va más allá de una simple actividad técnica. Una firma representa una relación de confianza que puede formar parte de la red utilizada para validar identidades dentro del proyecto. En Debian, las **Key Signing Parties (KSP)** se han convertido históricamente en una práctica mediante la cual los participantes verifican presencialmente sus identidades y posteriormente generan firmas criptográficas sobre sus claves, contribuyendo al fortalecimiento de esta red de confianza.
+
+En este contexto, la participación en una Key Signing Party durante DebConf26 permitió observar de manera práctica cómo un mecanismo criptográfico utilizado por Debian se relaciona directamente con la interacción entre las personas que forman parte de su comunidad. La verificación presencial de identidades y el posterior intercambio de firmas constituyeron, por tanto, una experiencia concreta para comprender cómo se materializa el modelo de confianza utilizado por el proyecto.
+
+### ¿En qué consiste una Key Signing Party?
+
+{{< video https://laotzu.ftp.acc.umu.se/pub/debian-meetings/2026/DebConf26/debconf26-300-continuous-keysigning-party-coordination-kickoff.av1.webm >}}
+
+### Documentos de referencia
+
+Los siguientes documentos fueron utilizados como material de apoyo
+para comprender los conceptos y el funcionamiento de OpenPGP, Web of Trust
+y su aplicación dentro del proyecto Debian.
+
+> **Strengthening a Curated Web of Trust in a Geographically Distributed Project**
+>
+> Documento de referencia sobre los conceptos y mecanismos relacionados con OpenPGP y la Web of Trust.
+>
+> [Consultar PDF](https://ru.iiec.unam.mx/3486/)
+
+> **Insights on the large-scale deployment of a curated Web-of-Trust: the Debian project’s cryptographic keyring**
+>
+> Documento de referencia sobre la aplicación de estos mecanismos dentro del proyecto Debian.
+>
+> [Consultar PDF](https://ru.iiec.unam.mx/4106/)
+
+### Evidencia de las claves firmadas
+
+Como evidencia de la participación en la Key Signing Party, se presenta el diagrama de **Web of Trust** correspondiente a la clave de **Hazel Azucena Calderón Bonilla**, generado a partir de las claves verificadas durante la actividad. Para su elaboración se utilizaron las herramientas **sig2dot** y **Graphviz**, cuyo uso también fue abordado y aprendido durante el desarrollo del evento.
+
+[**Ver clave pública Azucena Calderón →**](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x54d3be2a65c706a9)
+
+
+![](resources/esquemas/keyringAzu.png)
+
+::: {.callout-tip appearance="minimal"}
+### Evidencia de clave verificada
+
+**Douglas Isaac Barrera Magaña**
+
+El siguiente enlace documenta el resultado de la participación de Douglas Isaac Barrera Magaña en la actividad de Key Signing Party de DebConf26, como parte del proceso de intercambio y verificación de claves realizado durante el evento.
+
+[**Ver clave pública Douglas Barrera →**](https://keyserver.ubuntu.com/pks/lookup?search=46ADA294EF8724378A3A8493A17C5553382B54E5&fingerprint=on&op=index)
+:::
+
+# Galeria
+
+{{< video resources/img/1.mp4 >}}
+
+::: {.photo-gallery}
+
+![](resources/img/1.jpg)
+
+![](resources/img/16.jpg)
+
+![](resources/img/4.jpg)
+
+![](resources/img/2.jpg)
+
+![](resources/img/5.jpg)
+
+![](resources/img/6.jpg)
+
+![](resources/img/7.jpg)
+
+![](resources/img/8.jpg)
+
+![](resources/img/9.jpg)
+
+![](resources/img/10.jpg)
+
+![](resources/img/11.jpg)
+
+![](resources/img/12.JPG)
+
+![](resources/img/13.jpg)
+
+![](resources/img/14.jpg)
+
+![](resources/img/15.JPG)
+
+![](resources/img/3.jpg)
+
+![](resources/img/17.jpg)
+
+![](resources/img/18.jpg)
+
+:::

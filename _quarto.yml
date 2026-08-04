@@ -1,0 +1,17 @@
+project:
+  type: website
+  
+output-dir: docs
+
+lang: es
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    smooth-scroll: true
+    css: /resources/styles/galeria.css
+
+execute:
+  echo: false
