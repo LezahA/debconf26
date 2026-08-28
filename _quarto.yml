@@ -11,6 +11,10 @@ format:
     number-sections: false
     smooth-scroll: true
     css: resources/styles/galeria.css
+    other-links:
+      - text: "Repositorio de código fuente"
+        href: "https://github.com/LezahA/debconf26"
+        icon: github
 
 execute:
   echo: false
